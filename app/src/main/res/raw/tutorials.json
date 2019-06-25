@@ -1,0 +1,196 @@
+{
+  "tutorial": [
+    {
+      "category": "Android",
+      "category_img": "http://eskipaper.com/images/android-wallpaper-6.jpg",
+      "tutorials": [
+        {
+          "link": "https://www.tutorialspoint.com/android/index.htm",
+          "name": "Learn android",
+          "img_res": "http://eskipaper.com/images/android-wallpaper-6.jpg",
+          "duration": "180min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/kotlin/index.htm",
+          "name": "Learn kotlin",
+          "img_res": "http://eskipaper.com/images/android-wallpaper-6.jpg",
+          "duration": "110min"
+        }
+      ]
+    },
+    {
+      "category": "iOS",
+      "category_img": "https://media.idownloadblog.com/wp-content/uploads/2016/04/AR72014-WWDC-2016-wallpaper-desktop.png",
+      "tutorials": [
+        {
+          "link": "https://www.tutorialspoint.com/ios_app_development/index.asp",
+          "name": "iOS App development",
+          "img_res": "https://media.idownloadblog.com/wp-content/uploads/2016/04/AR72014-WWDC-2016-wallpaper-desktop.png",
+          "duration": "140min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/ios/index.htm",
+          "name": "Learn iOS",
+          "img_res": "https://media.idownloadblog.com/wp-content/uploads/2016/04/AR72014-WWDC-2016-wallpaper-desktop.png",
+          "duration": "180min"
+        }
+      ]
+    },
+    {
+      "category": "Web applications",
+      "category_img": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_architecture-01.png",
+      "tutorials": [
+        {
+          "link": "https://www.tutorialspoint.com/angularjs/index.htm",
+          "name": "Learn AngularJS",
+          "img_res": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_architecture-01.png",
+          "duration": "100min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/bootstrap4/index.htm",
+          "name": "Learn bootstrap 4",
+          "img_res": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_architecture-01.png",
+          "duration": "60min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/css/index.htm",
+          "name": "Learn CSS",
+          "img_res": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_architecture-01.png",
+          "duration": "60min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/html5/index.htm",
+          "name": "Learn HTML5",
+          "img_res": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_architecture-01.png",
+          "duration": "50min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/javascript/index.htm",
+          "name": "Learn JavaScript",
+          "img_res": "https://www.scnsoft.com/blog-pictures/web-apps/web_application_architecture-01.png",
+          "duration": "110min"
+        }
+      ]
+    },
+    {
+      "category": "Academics",
+      "category_img": "https://plymouthsciencepark.com/wp-content/uploads/2017/05/academics-news-feed.jpg",
+      "tutorials": [
+        {
+          "link": "https://www.tutorialspoint.com/accounting_basics/index.htm",
+          "name": "Learn accounting basics",
+          "img_res": "https://plymouthsciencepark.com/wp-content/uploads/2017/05/academics-news-feed.jpg",
+          "duration": "80min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/adaptive_software_development/index.htm",
+          "name": "Adaptive software development",
+          "img_res": "https://plymouthsciencepark.com/wp-content/uploads/2017/05/academics-news-feed.jpg",
+          "duration": "90min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/agile/index.htm",
+          "name": "Agile technology",
+          "img_res": "https://plymouthsciencepark.com/wp-content/uploads/2017/05/academics-news-feed.jpg",
+          "duration": "80min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/artificial_intelligence/index.htm",
+          "name": "Artificial intelligence",
+          "img_res": "https://plymouthsciencepark.com/wp-content/uploads/2017/05/academics-news-feed.jpg",
+          "duration": "100min"
+        }
+      ]
+    },
+    {
+      "category": "Databases",
+      "category_img": "https://cdn.lynda.com/course/548706/548706-636232861353336121-16x9.jpg",
+      "tutorials": [
+        {
+          "link": "https://www.tutorialspoint.com/mongodb/index.htm",
+          "name": "MongoDB",
+          "img_res": "https://cdn.lynda.com/course/548706/548706-636232861353336121-16x9.jpg",
+          "duration": "80min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/mysql/index.htm",
+          "name": "MySQL",
+          "img_res": "https://cdn.lynda.com/course/548706/548706-636232861353336121-16x9.jpg",
+          "duration": "80min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/plsql/index.htm",
+          "name": "PL/SQL",
+          "img_res": "https://cdn.lynda.com/course/548706/548706-636232861353336121-16x9.jpg",
+          "duration": "100min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/postgresql/index.htm",
+          "name": "PostreSQL",
+          "img_res": "https://cdn.lynda.com/course/548706/548706-636232861353336121-16x9.jpg",
+          "duration": "90min"
+        }
+      ]
+    },
+    {
+      "category": "Digital marketing",
+      "category_img": "https://www.digitalmarketer.com/digital-marketing/assets/images/chapter_images/Chapter0.png",
+      "tutorials": [
+        {
+          "link": "https://www.tutorialspoint.com/amazon_marketplace/index.htm",
+          "name": "Amazon marketplace",
+          "img_res": "https://www.digitalmarketer.com/digital-marketing/assets/images/chapter_images/Chapter0.png",
+          "duration": "70min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/ab_testing/index.htm",
+          "name": "A/B testing",
+          "img_res": "https://www.digitalmarketer.com/digital-marketing/assets/images/chapter_images/Chapter0.png",
+          "duration": "50min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/content_marketing/index.htm",
+          "name": "Content marketing",
+          "img_res": "https://www.digitalmarketer.com/digital-marketing/assets/images/chapter_images/Chapter0.png",
+          "duration": "70min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/online_marketing/index.htm",
+          "name": "Online marketing",
+          "img_res": "https://www.digitalmarketer.com/digital-marketing/assets/images/chapter_images/Chapter0.png",
+          "duration": "50min"
+        }
+      ]
+    },
+    {
+      "category": "Software quality",
+      "category_img": "http://www.professionalqa.com/assets/images/software-quality.png",
+      "tutorials": [
+        {
+          "link": "https://www.tutorialspoint.com/agile_testing/index.htm",
+          "name": "Agile testing",
+          "img_res": "http://www.professionalqa.com/assets/images/software-quality.png",
+          "duration": "55min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/computer_security/index.htm",
+          "name": "Computer security",
+          "img_res": "http://www.professionalqa.com/assets/images/software-quality.png",
+          "duration": "90min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/jenkins/index.htm",
+          "name": "Learn jenkins",
+          "img_res": "http://www.professionalqa.com/assets/images/software-quality.png",
+          "duration": "120min"
+        },
+        {
+          "link": "https://www.tutorialspoint.com/network_security/index.htm",
+          "name": "Network security",
+          "img_res": "http://www.professionalqa.com/assets/images/software-quality.png",
+          "duration": "95min"
+        }
+      ]
+    }
+  ]
+}

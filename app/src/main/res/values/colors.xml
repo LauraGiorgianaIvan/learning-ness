@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/app_primary_color</color>
+    <color name="colorPrimaryDark">@color/app_primary_color_dark</color>
+    <color name="colorAccent">@color/app_primary_color_dark</color>
+
+    <color name="app_primary_color">#81C784</color>
+    <color name="app_primary_color_dark">#81C784</color>
+
+    <color name="white">#fff</color>
+    <color name="white_gray">#F5F5F5</color>
+    <color name="black">#212121</color>
+    <color name="red">#E53935</color>
+    <color name="transparent_black">#CC212121</color>
+    <color name="light_blue">#B3E5FC</color>
+    <color name="translucent_black">#F2000000</color>
+    <color name="pure_black">#000</color>
+</resources>
